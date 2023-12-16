@@ -6,7 +6,8 @@ The project is a simulation of a scenario where multiple students seek help from
 # Project Documentation
 
 
-[os2 project.docx](https://github.com/Ahmed1092002/SleepingTeacherAssistantOS/files/13693597/os2.project.docx)
+[os2 project.pdf](https://github.com/Ahmed1092002/SleepingTeacherAssistantOS/files/13693619/os2.project.pdf)
+
 
 # project video 
 
